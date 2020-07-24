@@ -1,6 +1,7 @@
-# Magento 2 removal of optional MSI modules
-This repository contains a composer meta-package that removes optional MSI modules. To install, use the following:
+# Magento 2 removal of optional modules
+This repository contains a composer meta-package that removes optional modules. To install this package, use the following:
 
-    composer require yireo/magento2-replace-inventory:2.3.1
-    
-See also the package `yireo/magento2-replace-all`.
+    composer require yireo/magento2-replace-inventory
+
+## Notes
+See the package [`yireo/magento2-replace-tools`.](https://github.com/yireo/magento2-replace-tools) for more information
